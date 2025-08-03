@@ -19,9 +19,3 @@ Você pode acessar a versão ao vivo do projeto no seguinte link:
 - Gere automaticamente o código CSS para aplicar em seus projetos.
 - Copie e cole o código gerado diretamente no seu arquivo de CSS.
 
-## 🚀 Como usar
-
-1. **Clone o repositório**:
-
-```bash
-git clone https://github.com/grasiapbaader/box-shadow-generator.git
